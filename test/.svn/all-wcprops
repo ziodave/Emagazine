@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/repos/emagazineweb/!svn/ver/1/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/emagazineweb/!svn/ver/1/test/test_helper.rb
+END

@@ -1,0 +1,15 @@
+<h1>Media Info Collection</h1>
+
+<%= form_for(@media_info_collection, :as => :media_info_collection, :html => { :multipart => true }) do |form| %>
+<div class="field">
+  <%= form.label :title %><br/>
+  <%= form.text_field :title %>
+</div>
+<div class="field">
+  <%= form.label :source %><br/>
+  <%= form.file_field :source %>
+</div>
+<div class="actions">
+  <%= form.submit %>
+</div>
+<% end %>

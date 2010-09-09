@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/repos/emagazineweb/!svn/ver/1/db
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/emagazineweb/!svn/ver/2/db/schema.rb
+END
+development.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/emagazineweb/!svn/ver/3/db/development.sqlite3
+END
+seeds.rb
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/emagazineweb/!svn/ver/1/db/seeds.rb
+END

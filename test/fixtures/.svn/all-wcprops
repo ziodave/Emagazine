@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/emagazineweb/!svn/ver/1/test/fixtures
+END
+medias.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/emagazineweb/!svn/ver/1/test/fixtures/medias.yml
+END
+media_info_collections.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/emagazineweb/!svn/ver/1/test/fixtures/media_info_collections.yml
+END
+media_infos.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/emagazineweb/!svn/ver/1/test/fixtures/media_infos.yml
+END

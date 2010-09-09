@@ -1,0 +1,2 @@
+module MediaInfoCollectionHelper
+end

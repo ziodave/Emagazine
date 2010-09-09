@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/emagazineweb/!svn/ver/1/app/views/media_info
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/emagazineweb/!svn/ver/1/app/views/media_info/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/emagazineweb/!svn/ver/1/app/views/media_info/index.html.erb
+END
+destroy.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/emagazineweb/!svn/ver/1/app/views/media_info/destroy.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/emagazineweb/!svn/ver/1/app/views/media_info/new.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/emagazineweb/!svn/ver/1/app/views/media_info/show.html.erb
+END
+update.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/emagazineweb/!svn/ver/1/app/views/media_info/update.html.erb
+END
+create.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/emagazineweb/!svn/ver/1/app/views/media_info/create.html.erb
+END

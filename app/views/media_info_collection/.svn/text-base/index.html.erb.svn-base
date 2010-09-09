@@ -1,0 +1,11 @@
+<h1>Media Info Collections</h1>
+
+<% @media_info_collections.each do |media_info_collection| %>
+<div>
+  <%= link_to media_info_collection.title, media_info_collection_url(media_info_collection.id) %><br/>
+  <%= image_tag media_info_collection.source.url(:thumb) %><br/>
+</div>
+<div class="actions">
+  <%= link_to 'delete', media_info_collection, :confirm => 'Are you sure?', :method => :delete %>
+</div>
+<% end %>

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/emagazineweb/!svn/ver/1/db/migrate
+END
+20100805143149_add_page_number_to_media_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/emagazineweb/!svn/ver/1/db/migrate/20100805143149_add_page_number_to_media_info.rb
+END
+20100802131132_add_cover_to_media.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/emagazineweb/!svn/ver/1/db/migrate/20100802131132_add_cover_to_media.rb
+END
+20100805082512_add_title_to_media_info_collection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/emagazineweb/!svn/ver/1/db/migrate/20100805082512_add_title_to_media_info_collection.rb
+END
+20100802125234_create_medias.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/emagazineweb/!svn/ver/1/db/migrate/20100802125234_create_medias.rb
+END
+20100805070744_create_media_infos.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/emagazineweb/!svn/ver/1/db/migrate/20100805070744_create_media_infos.rb
+END
+20100805111016_add_view_to_media_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/emagazineweb/!svn/ver/1/db/migrate/20100805111016_add_view_to_media_info.rb
+END
+20100805161809_add_rtl_to_media_info_collection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/emagazineweb/!svn/ver/2/db/migrate/20100805161809_add_rtl_to_media_info_collection.rb
+END
+20100805070702_create_media_info_collections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/emagazineweb/!svn/ver/1/db/migrate/20100805070702_create_media_info_collections.rb
+END
+20100805083647_add_source_to_media_info_collection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/emagazineweb/!svn/ver/1/db/migrate/20100805083647_add_source_to_media_info_collection.rb
+END
+20100802130444_media.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/emagazineweb/!svn/ver/1/db/migrate/20100802130444_media.rb
+END
