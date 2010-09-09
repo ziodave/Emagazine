@@ -10,7 +10,8 @@ gem 'flutie',		'1.0.3'
 gem 'paperclip',	'2.3.3'
 gem 'rmagick'
 
-gem 'converter', :path => "~/Developer/gems/converter"
+# gem 'converter', :path => "~/Developer/gems/converter"
+gem 'converter', :git => 'git://github.com/ziodave/Converter.git'
 
 # Use unicorn as the web server
 # gem 'unicorn'

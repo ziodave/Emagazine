@@ -1,5 +1,6 @@
-PATH
-  remote: /Users/david/Developer/gems/converter
+GIT
+  remote: git://github.com/ziodave/Converter.git
+  revision: c2cba75
   specs:
     converter (0.0.1)
 
