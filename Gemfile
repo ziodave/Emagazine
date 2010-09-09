@@ -8,7 +8,7 @@ gem 'rails', '3.0.0'
 gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'flutie',		'1.0.3'
 gem 'paperclip',	'2.3.3'
-gem 'rmagick'
+gem 'rmagick',		'2.12.2'
 
 # gem 'converter', :path => "~/Developer/gems/converter"
 gem 'converter', :git => 'git://github.com/ziodave/Converter.git'
